@@ -1,0 +1,13 @@
+#服务端口
+server:
+  port: 8080
+spring:
+  redis:
+    host: node01  #Redis配置
+    port: 6379
+    password:
+    database: 0
+
+
+
+
