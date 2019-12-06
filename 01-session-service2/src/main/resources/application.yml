@@ -3,7 +3,7 @@ server:
   port: 8081
 spring:
   redis:
-    host: 192.168.70.156  #Redis配置
+    host: node01 #Redis配置
     port: 6379
     password:
     database: 0
